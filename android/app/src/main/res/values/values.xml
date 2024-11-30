@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Firebase Project Information -->
+    <string name="firebase_project_number">696197511799</string>
+    <string name="firebase_project_id">userapp-3506c</string>
+    <string name="firebase_storage_bucket">userapp-3506c.firebasestorage.app</string>
+
+    <!-- Client Information -->
+    <string name="firebase_mobilesdk_app_id">1:696197511799:android:5c3437d14d284814a36472</string>
+    <string name="firebase_package_name">com.example.user_app</string>
+
+    <!-- API Key -->
+    <string name="firebase_api_key">AIzaSyASckXd9J6K8h-MFcfViW5FvQCGzoL9aOU</string>
+
+    <!-- Configuration Version -->
+    <string name="firebase_configuration_version">1</string>
+</resources>
